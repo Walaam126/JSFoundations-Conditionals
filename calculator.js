@@ -1,4 +1,5 @@
 // Define the numbers and the operation here
+//..
 const num1=prompt("Enter first number");
 const num2=prompt("Enter second number");
 const opt=prompt("Enter the operation");
